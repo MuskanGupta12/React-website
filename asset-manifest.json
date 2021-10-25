@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/React-website/static/css/main.54e5d522.chunk.css",
+    "main.js": "/React-website/static/js/main.9174a390.chunk.js",
+    "main.js.map": "/React-website/static/js/main.9174a390.chunk.js.map",
+    "runtime-main.js": "/React-website/static/js/runtime-main.e8bceb6a.js",
+    "runtime-main.js.map": "/React-website/static/js/runtime-main.e8bceb6a.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/React-website/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f85da3d2.chunk.js": "/React-website/static/js/2.f85da3d2.chunk.js",
+    "static/js/2.f85da3d2.chunk.js.map": "/React-website/static/js/2.f85da3d2.chunk.js.map",
+    "static/js/3.9d71ebfd.chunk.js": "/React-website/static/js/3.9d71ebfd.chunk.js",
+    "static/js/3.9d71ebfd.chunk.js.map": "/React-website/static/js/3.9d71ebfd.chunk.js.map",
+    "index.html": "/React-website/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/React-website/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.54e5d522.chunk.css.map": "/React-website/static/css/main.54e5d522.chunk.css.map",
+    "static/js/2.f85da3d2.chunk.js.LICENSE.txt": "/React-website/static/js/2.f85da3d2.chunk.js.LICENSE.txt",
+    "static/media/about.c97bbca8.png": "/React-website/static/media/about.c97bbca8.png",
+    "static/media/hero-img.593960b6.png": "/React-website/static/media/hero-img.593960b6.png",
+    "static/media/portfolio-1.5b6dea54.jpg": "/React-website/static/media/portfolio-1.5b6dea54.jpg",
+    "static/media/portfolio-2.c720b9c8.jpg": "/React-website/static/media/portfolio-2.c720b9c8.jpg",
+    "static/media/portfolio-3.fc3013b0.jpg": "/React-website/static/media/portfolio-3.fc3013b0.jpg",
+    "static/media/portfolio-4.d86509ce.jpg": "/React-website/static/media/portfolio-4.d86509ce.jpg",
+    "static/media/portfolio-5.2dcd6723.jpg": "/React-website/static/media/portfolio-5.2dcd6723.jpg",
+    "static/media/portfolio-6.c6b9e190.jpg": "/React-website/static/media/portfolio-6.c6b9e190.jpg",
+    "static/media/values-1.006c8f97.png": "/React-website/static/media/values-1.006c8f97.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8bceb6a.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.f85da3d2.chunk.js",
+    "static/css/main.54e5d522.chunk.css",
+    "static/js/main.9174a390.chunk.js"
+  ]
+}
